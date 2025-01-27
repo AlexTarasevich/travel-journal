@@ -11,4 +11,5 @@ npm install
 npm run dev
 ```
 
-<img width="2045" alt="Снимок экрана 2025-01-27 в 16 55 36" src="https://github.com/user-attachments/assets/c7110b54-a933-4096-b8c5-53e0570bb4fc" />
+
+<img width="1011" alt="Снимок экрана 2025-01-27 в 16 57 34" src="https://github.com/user-attachments/assets/16859627-dbd5-48e3-aa50-05d8d404344f" />
